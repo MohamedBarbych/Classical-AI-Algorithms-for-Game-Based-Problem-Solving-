@@ -24,14 +24,28 @@ Each of these algorithms has unique advantages for solving game-related problems
 
 ## 🎮 Applications in Games
 This repository focuses on applying algorithms to the following classic games:
+- **Maze**: Solves constraints using BFS,DFS,A*.
 
+![img.png](img.png)
 - **Chess**: Explores moves and strategies through BFS and DFS.
-- **Mancala**: Analyzes potential strategies using depth-first and heuristic search.
+![img_2.png](img_2.png)
 - **Tic-Tac-Toe**: Demonstrates simple search and heuristic methods.
-- **Sudoku**: Solves constraints using backtracking.
+
+![img_3.png](img_3.png)
+- **Sudoku**: Solves constraints using backtracking and arc consistency.
+![img_1.png](img_1.png)
+- - **Menu Gastro**: Solves constraints using backtracking and MVR.
+
+![img_4.png](img_4.png)
+- **Mancala**: Analyzes potential strategies using depth-first and heuristic search.
+
+
+
 
 ## 🚀 Getting Started
 To begin using this repository, clone it to your local machine:
+
+
 
 ```bash
 git clone https://github.com/MohamedBarbych/Classical-AI-Algorithms-for-Game-Based-Problem-Solving-.git
