@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad0c52e5-2c3c-4abb-a254-601a4378eb9f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Devoir_Individuel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ADV/Chess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ADV/ChessMove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ADV/ChessPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ADV/GameSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ADV/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ADV/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ADV/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ADV/TicTacToeMove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ADV/TicTacToePosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MenuGastro/Backtracking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MenuGastro/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MenuGastro/SET.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MenuGastro/ST.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2oL6bjQ3sxX1kqKeg2JtyWXLm7Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Backtracking.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Chess.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TicTacToe.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/med/MyProjects/Classical-AI-Algorithms-for-Game-Based-Problem-Solving-&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/media/med/01DB181608723090/Med crf 1/Logiciels et Systèmes Intelligents/S3/Methodologies de l'IA/Devoir_Individuel/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ADV" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Classical-AI-Algorithms-for-Game-Based-Problem-Solving-" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Classical-AI-Algorithms-for-Game-Based-Problem-Solving-" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad0c52e5-2c3c-4abb-a254-601a4378eb9f" name="Changes" comment="" />
+      <created>1730636583653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730636583653</updated>
+      <workItem from="1730636584695" duration="21987000" />
+      <workItem from="1730712888921" duration="18810000" />
+      <workItem from="1730799036742" duration="9202000" />
+      <workItem from="1730808279151" duration="587000" />
+      <workItem from="1730808907195" duration="24000" />
+      <workItem from="1730811519774" duration="23000" />
+      <workItem from="1730978841239" duration="90000" />
+      <workItem from="1731159265131" duration="309000" />
+      <workItem from="1731440797368" duration="2472000" />
+      <workItem from="1731531681641" duration="5604000" />
+      <workItem from="1731570120292" duration="5782000" />
+      <workItem from="1731578070298" duration="3327000" />
+      <workItem from="1731595834880" duration="135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
