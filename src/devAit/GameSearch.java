@@ -54,8 +54,7 @@ public abstract class GameSearch {
             v.addElement(new Float(value));
             v.addElement(null);
             if(GameSearch.DEBUG) {
-                System.out.println(" alphaBetaHelper: mx depth at " + depth+
-                                   ", value="+value);
+                System.out.println(" alphaBetaHelper: mx depth at " + depth+ ", value="+value);
             }
             return v;
         }
