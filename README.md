@@ -1,6 +1,6 @@
 # 🎲 Classical AI Algorithms for Game-Based Problem Solving
 
-Welcome to **Classical AI Algorithms**! This repository demonstrates the core techniques of classical, symbolic AI (also known as **GOFAI - Good Old-Fashioned AI**) with applications in games like Chess, Mancala, Tic-Tac-Toe, and Sudoku. These exercises are designed to explore fundamental AI concepts through hands-on problem-solving in gaming contexts.
+Welcome to **Classical AI Algorithms**! This repository demonstrates the core techniques of classical, symbolic AI (also known as **GOFAI - Good Old-Fashioned AI**) with applications in games like Chess, Mancala, Tic-Tac-Toe, and Sudoku. These exercises explore fundamental AI concepts through hands-on problem-solving in gaming contexts.
 
 ## 📂 Table of Contents
 - [Overview](#overview)
