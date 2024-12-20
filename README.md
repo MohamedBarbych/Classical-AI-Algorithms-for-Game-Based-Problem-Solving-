@@ -17,7 +17,7 @@ This repository is tailored for Java developers interested in symbolic AI approa
 Each of these algorithms has unique advantages for solving game-related problems:
 
 - **Breadth-First Search (BFS)**: Ideal for exhaustive exploration, such as checking all possible moves in shallow game trees.
-- **Depth-First Search (DFS)**: Dives deep into game states, helping find solutions in scenarios where complete branch exploration is required.
+**Depth-First Search (DFS)**: This technique dives deep into game states, helping find solutions in scenarios where complete branch exploration is required.
 - **Heuristic Search (A\*)**: Uses heuristics for optimal pathfinding, often applied in strategy games to evaluate the best move.
 - **Hill Climbing**: Suitable for optimization within game constraints, though it can get stuck in local optima.
 - **Backtracking**: Effective for multi-constraint problems like Sudoku, where all possible configurations must be explored.
