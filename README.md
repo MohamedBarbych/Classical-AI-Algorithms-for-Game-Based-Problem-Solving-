@@ -24,7 +24,7 @@ Each of these algorithms has unique advantages for solving game-related problems
 
 ## 🎮 Applications in Games
 This repository focuses on applying algorithms to the following classic games:
-- **Maze**: Solves constraints using BFS,DFS,A*.
+- **Maze**: Solves constraints using BFS, DFS,A*.
 
 ![img.png](img.png)
 - **Chess**: Explores moves and strategies through BFS and DFS.
